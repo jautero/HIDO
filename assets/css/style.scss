@@ -4,21 +4,21 @@
 @import "{{ site.theme }}";
 @font-face {
     font-family: "Computer Modern";
-    src: url('/assets/fonts/otf/cmunss.otf');
+    src: url('../fonts/otf/cmunss.otf');
   }
   @font-face {
     font-family: "Computer Modern";
-    src: url('/assets/fonts/otf/cmunsx.otf');
+    src: url('../fonts/otf/cmunsx.otf');
     font-weight: bold;
   }
   @font-face {
     font-family: "Computer Modern";
-    src: url('/assets/fonts/otf/cmunsi.otf');
+    src: url('../fonts/otf/cmunsi.otf');
     font-style: italic, oblique;
   }
   @font-face {
     font-family: "Computer Modern";
-    src: url('/assets/fonts/otf/cmunbxo.otf');
+    src: url('../fonts/otf/cmunbxo.otf');
     font-weight: bold;
     font-style: italic, oblique;
   }
