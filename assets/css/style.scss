@@ -2,27 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-@font-face {
-    font-family: "Computer Modern";
-    src: url('../fonts/otf/cmunss.otf');
-  }
-  @font-face {
-    font-family: "Computer Modern";
-    src: url('../fonts/otf/cmunsx.otf');
-    font-weight: bold;
-  }
-  @font-face {
-    font-family: "Computer Modern";
-    src: url('../fonts/otf/cmunsi.otf');
-    font-style: italic, oblique;
-  }
-  @font-face {
-    font-family: "Computer Modern";
-    src: url('../fonts/otf/cmunbxo.otf');
-    font-weight: bold;
-    font-style: italic, oblique;
-  }
+@import "../fonts/Serif/cmun-serif.css"
 
   .project-tagline {
-    font-family: "Computer Modern", sans-serif;
+    font-family: "Computer Modern Serif", serif;
   }
