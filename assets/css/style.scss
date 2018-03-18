@@ -4,10 +4,6 @@
 @import "{{ site.theme }}";
 @import "../fonts/Serif/cmun-serif.css";
 
-  .project-tagline {
+body {
     font-family: "Computer Modern Serif", Georgia, 'Times New Roman', Times, serif;
-  }
-
-  .main-content {
-    font-family: "Computer Modern Serif", Georgia, 'Times New Roman', Times, serif;
-  }
+}
