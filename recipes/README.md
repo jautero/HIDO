@@ -4,3 +4,4 @@ Kerään tänne eri lähteistä reseptejä.
 
 ## Leivonta
 * [New York Style Bagels](bagels.md)
+* [Pizza](pizza.md)
